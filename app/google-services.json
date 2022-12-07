@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474037823703",
+    "project_id": "quicktalk-353d8",
+    "storage_bucket": "quicktalk-353d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474037823703:android:0aa99e926d45799128e892",
+        "android_client_info": {
+          "package_name": "com.avinash.quicktalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474037823703-kapv6ljv07d3lfp38me8j5bkc2voc5qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvNYe-S8NnLYPSEaw7O5xgVYsqQRkALK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474037823703-kapv6ljv07d3lfp38me8j5bkc2voc5qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
